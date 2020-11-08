@@ -9,7 +9,6 @@ public class ModItemGroups {
 
     public static final ItemGroup ITEM_GROUP = FabricItemGroupBuilder.build(
             new Identifier("asteroid", "library"),
-
             () -> new ItemStack(ModItems.X_SWORD));
 
  /*   public static final ItemGroup OTHER_GROUP = FabricItemGroupBuilder.create(

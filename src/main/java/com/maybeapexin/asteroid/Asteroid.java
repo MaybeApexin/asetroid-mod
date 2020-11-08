@@ -9,7 +9,6 @@ public class Asteroid implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
         ModItems.registerItems();
     }
 }

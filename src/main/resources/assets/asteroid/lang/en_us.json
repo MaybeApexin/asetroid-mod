@@ -1,4 +1,5 @@
 {
  "item.asteroid.x_sword": "Example Sword",
- "itemGroup.asteroid.library": "Asteroid Library"
+ "itemGroup.asteroid.library": "Asteroid Library",
+ "item.asteroid.x_bow": "Example Bow"
 }
