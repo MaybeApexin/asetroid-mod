@@ -1,4 +1,13 @@
 {
- "item.asteroid.x_sword": "Example Sword",
- "itemGroup.asteroid.library": "Asteroid Library"
+ "itemGroup.asteroid.library": "Asteroid Main",
+ "itemGroup.asteroid.misc": "Asteroid Miscellaneous",
+ "item.asteroid.ruby": "Ruby Gem",
+ "item.asteroid.decoy_charge": "Decoy Charge",
+ "item.asteroid.gemstone_sword": "Gemstone Sword",
+ "item.asteroid.gemstone_bow": "Gemstone Bow",
+ "item.asteroid.gemstone_pickaxe": "Gemstone Pickaxe",
+ "item.asteroid.gemstone_axe": "Gemstone Axe",
+ "item.asteroid.gemstone_shovel": "Gemstone Shovel",
+ "item.asteroid.gemstone_shield": "Gemstone Shield"
+
 }
